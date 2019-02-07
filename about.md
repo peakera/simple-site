@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-There are all kinds of things to learn.
+There are all kinds of things to learn. Even more.
 
 ![Penguins on a rock.](https://www.brynmawr.edu/sites/default/files/styles/article_main/public/Punta%20Tombo%20003.jpg?itok=7S7OCzI4)
 
